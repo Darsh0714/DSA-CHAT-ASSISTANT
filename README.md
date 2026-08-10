@@ -392,6 +392,6 @@ This project demonstrates practical implementation of:
 
 ## Author
 
-**Darsh R**
+**Darshini R**
 
 GitHub: https://github.com/Darsh0714
