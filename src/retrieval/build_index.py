@@ -12,7 +12,7 @@ from src.retrieval.vector_store import (
 )
 
 
-PDF_PATH = r"C:\\Users\\LENOVO\Downloads\\PDF_Folder\\DSA.pdf"
+PDF_PATH = r"C:\\Users\\YourPC\Downloads\\PDF_Folder\\DSA.pdf"
 
 INDEX_PATH = "data/faiss.index"
 CHUNKS_PATH = "data/chunks.pkl"
